@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+HINT 1기생입니다.
 <!--
 **duckchun2u/duckchun2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
